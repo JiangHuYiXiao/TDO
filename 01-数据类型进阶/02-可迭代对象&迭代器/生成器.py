@@ -22,6 +22,6 @@ print(next(ge1))    # 6666666
 print(next(ge1))    # 1111111
 print(next(ge1))    # StopIteration
 # try:
-# #     print(next(ge1))
-# # except StopIteration as e:
-# #     print(e)
+#     print(next(ge1))
+# except StopIteration as e:
+#     print(e)

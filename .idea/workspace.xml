@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2379bcf-dfdd-4c0a-94a2-bff96d38c7b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01-数据类型进阶/01-推导式/综合小练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象&amp;迭代器/可迭代对象&amp;迭代器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象&amp;迭代器/生成器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-生成器和函数进阶/01-生成器定义方式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-生成器和函数进阶/02-pytest测试夹具fixture的执行过程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-生成器和函数进阶/03-自定义测试夹具.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-生成器和函数进阶/04-生成器和迭代器的区别.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-数据类型进阶/01-推导式/推导式.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-数据类型进阶/01-推导式/推导式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象&amp;迭代器/生成器.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象&amp;迭代器/生成器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-生成器和函数进阶/01-生成器定义方式.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-生成器和函数进阶/01-生成器定义方式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-生成器和函数进阶/02-pytest测试夹具fixture的执行过程.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-生成器和函数进阶/02-pytest测试夹具fixture的执行过程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-生成器和函数进阶/03-自定义测试夹具.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-生成器和函数进阶/03-自定义测试夹具.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-生成器和函数进阶/04-生成器和迭代器的区别.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-生成器和函数进阶/04-生成器和迭代器的区别.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,28 +18,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-数据类型进阶/01-推导式/推导式.py">
+        <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/01-生成器定义方式.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+            <state relative-caret-position="378">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-数据类型进阶/01-推导式/综合小练习.py">
+        <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/02-pytest测试夹具fixture的执行过程.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-133">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/03-自定义测试夹具.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象&amp;迭代器/可迭代对象&amp;迭代器.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
-              <caret line="75" selection-start-line="75" selection-end-line="75" />
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -51,36 +48,25 @@
         <entry file="file://$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象&amp;迭代器/生成器.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="468">
-              <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+              <caret line="26" column="14" selection-start-line="23" selection-start-column="2" selection-end-line="26" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/04-生成器和迭代器的区别.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/01-生成器定义方式.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/02-pytest测试夹具fixture的执行过程.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/04-生成器和迭代器的区别.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/03-自定义测试夹具.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="309" selection-start-line="309" selection-end-line="309" />
+            <state relative-caret-position="155">
+              <caret line="137" column="8" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -114,10 +100,16 @@
         <option value="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象/可迭代对象&amp;迭代器.py" />
         <option value="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象/1.py" />
         <option value="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象/生成器.py" />
-        <option value="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象&amp;迭代器/生成器.py" />
         <option value="$PROJECT_DIR$/02-生成器和函数进阶/生成器定义方式.py" />
         <option value="$PROJECT_DIR$/02-生成器和函数进阶/pytest测试夹具fixture的执行过程.py" />
         <option value="$PROJECT_DIR$/02-生成器和函数进阶/自定义测试夹具.py" />
+        <option value="$PROJECT_DIR$/02-生成器和函数进阶/01-生成器定义方式1.py" />
+        <option value="$PROJECT_DIR$/02-生成器和函数进阶/1.py" />
+        <option value="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象&amp;迭代器/生成器.py" />
+        <option value="$PROJECT_DIR$/02-生成器和函数进阶/12.py" />
+        <option value="$PROJECT_DIR$/02-生成器和函数进阶/01-生成器定义方式.py" />
+        <option value="$PROJECT_DIR$/02-生成器和函数进阶/02-pytest测试夹具fixture的执行过程.py" />
+        <option value="$PROJECT_DIR$/02-生成器和函数进阶/03-自定义测试夹具.py" />
         <option value="$PROJECT_DIR$/02-生成器和函数进阶/04-生成器和迭代器的区别.py" />
       </list>
     </option>
@@ -175,12 +167,15 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sexytea-autotest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/02-生成器和函数进阶" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TD\02-生成器和函数进阶" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\TD\01-数据类型进阶\02-可迭代对象" />
       <recent name="D:\TD\01-数据类型进阶" />
@@ -199,8 +194,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.生成器">
-    <configuration name="列表推导式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.04-生成器和迭代器的区别">
+    <configuration name="01-生成器定义方式" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TD" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,12 +203,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-数据类型进阶/01-推导式" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02-生成器和函数进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\TD\01-数据类型进阶\01-推导式\推导式.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02-生成器和函数进阶/01-生成器定义方式.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02-pytest测试夹具fixture的执行过程" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TD" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,12 +225,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02-生成器和函数进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02-生成器和函数进阶/02-pytest测试夹具fixture的执行过程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03-自定义测试夹具" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TD" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,12 +247,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象&amp;迭代器" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02-生成器和函数进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象&amp;迭代器/生成器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02-生成器和函数进阶/03-自定义测试夹具.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04-生成器和迭代器的区别" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02-生成器和函数进阶" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02-生成器和函数进阶/04-生成器和迭代器的区别.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02-生成器和函数进阶" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02-生成器和函数进阶/12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,34 +393,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="可迭代对象&amp;迭代器" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TD" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象/可迭代对象&amp;迭代器.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.生成器" />
-        <item itemvalue="Python.1" />
-        <item itemvalue="Python.可迭代对象&amp;迭代器" />
-        <item itemvalue="Python.列表推导式" />
+        <item itemvalue="Python.04-生成器和迭代器的区别" />
+        <item itemvalue="Python.03-自定义测试夹具" />
+        <item itemvalue="Python.02-pytest测试夹具fixture的执行过程" />
+        <item itemvalue="Python.01-生成器定义方式" />
+        <item itemvalue="Python.12" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +422,7 @@
       <workItem from="1709515962319" duration="23563000" />
       <workItem from="1709618430003" duration="11000" />
       <workItem from="1709777341267" duration="1229000" />
-      <workItem from="1711360332936" duration="3650000" />
+      <workItem from="1711360332936" duration="18962000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1709286194229</created>
@@ -420,11 +438,18 @@
       <option name="project" value="LOCAL" />
       <updated>1709287233818</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="提交">
+      <created>1711418518097</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711418518097</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47227000" />
+    <option name="totallyTimeSpent" value="62539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -437,16 +462,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1453" height="865" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.80045354" visible="true" weight="0.15533286" />
-      <window_info id="Structure" order="1" sideWeight="0.19954649" side_tool="true" visible="true" weight="0.15533286" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7991886" visible="true" weight="0.21832499" />
+      <window_info id="Structure" order="1" sideWeight="0.20081136" side_tool="true" visible="true" weight="0.21832499" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3292517" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292517" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3292517" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292517" />
@@ -470,12 +494,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TD$04_.coverage" NAME="04-生成器和迭代器的区别 Coverage Results" MODIFIED="1711444501693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-生成器和函数进阶" />
+    <SUITE FILE_PATH="coverage/TD$12.coverage" NAME="12 Coverage Results" MODIFIED="1711423892679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-生成器和函数进阶" />
     <SUITE FILE_PATH="coverage/TD$1.coverage" NAME="1 Coverage Results" MODIFIED="1709777365844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象" />
-    <SUITE FILE_PATH="coverage/TD$.coverage" NAME="生成器 Coverage Results" MODIFIED="1711361745836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象&amp;迭代器" />
+    <SUITE FILE_PATH="coverage/TD$02_pytestfixture.coverage" NAME="02-pytest测试夹具fixture的执行过程 Coverage Results" MODIFIED="1711439617826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-生成器和函数进阶" />
+    <SUITE FILE_PATH="coverage/TD$.coverage" NAME="生成器 Coverage Results" MODIFIED="1711423757245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象&amp;迭代器" />
+    <SUITE FILE_PATH="coverage/TD$03_.coverage" NAME="03-自定义测试夹具 Coverage Results" MODIFIED="1711440205107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-生成器和函数进阶" />
     <SUITE FILE_PATH="coverage/TD$_.coverage" NAME="可迭代对象&amp;迭代器 Coverage Results" MODIFIED="1709543635803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象" />
+    <SUITE FILE_PATH="coverage/TD$01_.coverage" NAME="01-生成器定义方式 Coverage Results" MODIFIED="1711424657822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-生成器和函数进阶" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../BaiduNetdiskDownload/01高阶编程/20221029_数据类型扩展/day01/demo1_推导式的使用.py">
@@ -517,20 +547,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象/geckodriver.log" />
-    <entry file="file://$PROJECT_DIR$/01-数据类型进阶/01-推导式/推导式.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-数据类型进阶/01-推导式/综合小练习.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象/1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -552,24 +568,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象&amp;迭代器/生成器.py">
+    <entry file="file://$PROJECT_DIR$/01-数据类型进阶/01-推导式/综合小练习.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        <state relative-caret-position="342">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-数据类型进阶/01-推导式/推导式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/01-生成器定义方式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/02-pytest测试夹具fixture的执行过程1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/03-自定义测试夹具.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/01-生成器定义方式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-数据类型进阶/02-可迭代对象&amp;迭代器/生成器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="14" selection-start-line="23" selection-start-column="2" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="137" column="8" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/02-pytest测试夹具fixture的执行过程.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/03-自定义测试夹具.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02-生成器和函数进阶/04-生成器和迭代器的区别.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

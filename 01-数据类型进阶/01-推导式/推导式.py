@@ -77,3 +77,6 @@ print(res)
 # 元组推导式(就是生成器表达式)
 res2 = (i for i in li)
 print(res2)  # <generator object <genexpr> at 0x0000018E458B9B88>
+print('jianghuyixiao')
+
+# dslfsd;fsfjdssdfds

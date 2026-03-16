@@ -2,6 +2,45 @@ sdfds
 class jianghu:
     def __init__(self, name):
         self.name = name
+    def add(self, a, b):
+
+        return a + b
+    def subtract(self, a, b):
+        return a - b
+    
+    
+
+
+        
+
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     def introduce(self):
         print(f"大家好，我是{self.name}，我来自江湖！")
